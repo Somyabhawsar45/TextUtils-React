@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Somyabhawsar45/TextUtils-React/static/css/main.ad6d3aa4.css",
+    "main.js": "/Somyabhawsar45/TextUtils-React/static/js/main.3a2689d5.js",
+    "static/js/488.9c92ff38.chunk.js": "/Somyabhawsar45/TextUtils-React/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/Somyabhawsar45/TextUtils-React/index.html",
+    "main.ad6d3aa4.css.map": "/Somyabhawsar45/TextUtils-React/static/css/main.ad6d3aa4.css.map",
+    "main.3a2689d5.js.map": "/Somyabhawsar45/TextUtils-React/static/js/main.3a2689d5.js.map",
+    "488.9c92ff38.chunk.js.map": "/Somyabhawsar45/TextUtils-React/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad6d3aa4.css",
+    "static/js/main.3a2689d5.js"
+  ]
+}
